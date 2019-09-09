@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc noversion nomachine -mcpu=cortex-m4 -mthumb -Wall -ffunction-sections -g -O0 -c -DSTM32F407VG -DSTM32F4XX -DUSE_STDPERIPH_DRIVER -D__ASSEMBLY__ -ID:\Documents\Semester 4\Sistem Berbasis Komputer\cmsis -ID:\Documents\Semester 4\Sistem Berbasis Komputer\cmsis_lib\include -ID:\Documents\Semester 4\Sistem Berbasis Komputer\cmsis_lib -ID:\Documents\Semester 4\Sistem Berbasis Komputer\cmsis_boot -ID:\Documents\Semester 4 -ID:\Documents\Semester 4\Sistem Berbasis Komputer">
+      <target file="syscalls.o" lastModified="163b47f763b">
+         <source file="..\..\..\syscalls\syscalls.c" lastModified="1636caa3ad3"/>
+      </target>
+      <target file="stm32f4xx_gpio.o" lastModified="163b47f753f">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_gpio.c" lastModified="1636caa9210"/>
+      </target>
+      <target file="motorDC.o" lastModified="163b47f76d3">
+         <source file="..\..\..\cmsis_lib\source\motorDC.c" lastModified="163914fa50d"/>
+      </target>
+      <target file="stm32f4xx_tim.o" lastModified="163b47f7787">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_tim.c" lastModified="1636cabf765"/>
+      </target>
+      <target file="system_stm32f4xx.o" lastModified="163b47f758b">
+         <source file="..\..\..\cmsis_boot\system_stm32f4xx.c" lastModified="1639058477a"/>
+      </target>
+      <target file="uart_node.o" lastModified="163b47f726b">
+         <source file="..\..\..\cmsis_lib\source\uart_node.c" lastModified="163b00027aa"/>
+      </target>
+      <target file="startup_stm32f4xx.o" lastModified="163b47f7367">
+         <source file="..\..\..\cmsis_boot\startup\startup_stm32f4xx.c" lastModified="1636caa561b"/>
+      </target>
+      <target file="stm32f4xx_usart.o" lastModified="163b47f7327">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_usart.c" lastModified="1636cabd228"/>
+      </target>
+      <target file="stm32f4xx_syscfg.o" lastModified="163b47f72bb">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_syscfg.c" lastModified="1636cac9e9f"/>
+      </target>
+      <target file="main.o" lastModified="163b47f73bb">
+         <source file="..\..\..\main.c" lastModified="163b47f6e2a"/>
+      </target>
+      <target file="tm_stm32f4_delay.o" lastModified="163b47f74e3">
+         <source file="..\..\..\cmsis_lib\source\tm_stm32f4_delay.c" lastModified="1633c253f00"/>
+      </target>
+      <target file="sensor.o" lastModified="163b47f7493">
+         <source file="..\..\..\cmsis_lib\source\sensor.c" lastModified="163aeded53a"/>
+      </target>
+      <target file="stm32f4xx_rcc.o" lastModified="163b47f7447">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_rcc.c" lastModified="1636caa7a14"/>
+      </target>
+      <target file="misc.o" lastModified="163b47f7687">
+         <source file="..\..\..\cmsis_lib\source\misc.c" lastModified="1636cac7fb1"/>
+      </target>
+   </processor>
+</history>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -g -nostartfiles -Map=robot bersih-bersih.map -O0 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\robot bersih-bersih -TC:\CooCox\CoIDE\configuration\ProgramData\robot bersih-bersih/link.ld -g">
+      <target file="robot bersih-bersih.elf" lastModified="163b47f79cf">
+         <source file="..\obj\uart_node.o" lastModified="163b47f726b"/>
+         <source file="..\obj\stm32f4xx_syscfg.o" lastModified="163b47f72bb"/>
+         <source file="..\obj\stm32f4xx_usart.o" lastModified="163b47f7327"/>
+         <source file="..\obj\startup_stm32f4xx.o" lastModified="163b47f7367"/>
+         <source file="..\obj\main.o" lastModified="163b47f73bb"/>
+         <source file="..\obj\stm32f4xx_rcc.o" lastModified="163b47f7447"/>
+         <source file="..\obj\sensor.o" lastModified="163b47f7493"/>
+         <source file="..\obj\tm_stm32f4_delay.o" lastModified="163b47f74e3"/>
+         <source file="..\obj\stm32f4xx_gpio.o" lastModified="163b47f753f"/>
+         <source file="..\obj\system_stm32f4xx.o" lastModified="163b47f758b"/>
+         <source file="..\obj\syscalls.o" lastModified="163b47f763b"/>
+         <source file="..\obj\misc.o" lastModified="163b47f7687"/>
+         <source file="..\obj\motorDC.o" lastModified="163b47f76d3"/>
+         <source file="..\obj\stm32f4xx_tim.o" lastModified="163b47f7787"/>
+      </target>
+   </processor>
+</history>
