@@ -1,7 +1,5 @@
-# Sumo-Robot
-Isi dari repositori ini adalah kode untuk robot sumo yang pernah saya dan tim buat.
-Terdapat 2 versi dari robot sumo yang ada pada repo ini yaitu yang menggunakan driver motor yang berupa shield Arduino dengan IC berupa
-L293D dan versi yang satunya menggunakan driver motor terpisah dengan IC berupa BTNxxx.
+# Mini-Robot
+Isi dari repositori ini adalah kode untuk robot berukuran kecil yang pernah saya dan tim buat.
 
 ## SumoRobot
 SumoRobot merupakan versi yang menggunakan IC BTNxxx. Inti dari kode ini adalah pembacaan sensor dan penggerakan aktuator berupa motor DC.
