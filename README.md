@@ -16,3 +16,4 @@ SumoRobot_V2 merupakan robot sumo versi 2 yang menggunakan IC L293D yaitu shield
 Inti dari kode ini sama dengan versi sebelumnya yaitu SumoRobot.
 Perubahan pada versi kedua ini adalah dengan penggunaan library **AFMotor** yang dapat mengontrol kecepatan dari motor DC yang dihubungkan dengan shieldnya.
 Selain itu terdapat pula tambahan berupa fitur *controlled* yang memungkinkan pengguna dapat mengendalikan robot melalui aplikasi pada smartphone berupa **Bluetooth RC Controller**.
+
